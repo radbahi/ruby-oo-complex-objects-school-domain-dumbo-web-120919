@@ -16,7 +16,7 @@ class School
   end
   
   def sort
-   @roster.sort_by
+   @roster
   end
   
 end #end of class School
