@@ -22,6 +22,5 @@ class School
     end
     roster_sort
   end
-  end
   
 end #end of class School
